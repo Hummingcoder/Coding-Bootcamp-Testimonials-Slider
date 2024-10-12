@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL ]()
-- Live Site URL: [ live site URL ]()
+- Solution URL: [ https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-solution-R2b4zLIIST ](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-solution-R2b4zLIIST)
+- Live Site URL: [ https://hummingcoder.github.io/Coding-Bootcamp-Testimonials-Slider/](https://hummingcoder.github.io/Coding-Bootcamp-Testimonials-Slider/)
 
 ### Screenshot
 
